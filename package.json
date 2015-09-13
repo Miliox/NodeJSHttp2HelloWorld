@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_http2_hello_world",
+  "version": "1.0.0",
+  "description": "Simple Hello World Server using Http2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miliox/NodeJSHttp2HelloWorld.git"
+  },
+  "keywords": [
+    "http2",
+    "helloworld",
+    "example"
+  ],
+  "author": "Emiliano Firmino <emiliano.firmino@gmail.com> (http://www.emilianofirmino.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Miliox/NodeJSHttp2HelloWorld/issues"
+  },
+  "homepage": "https://github.com/Miliox/NodeJSHttp2HelloWorld#readme",
+  "dependencies": {
+    "http2": "^3.2.0"
+  }
+}
